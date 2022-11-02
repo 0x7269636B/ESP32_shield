@@ -9,3 +9,5 @@ The first one, contains the grber file required to fabricate the pcb as is.
 The second one, is the file you can use to make the pcd meet your requirements.
 
 Please note that in order to change the esp_shield.fzz file, you will need the Fritzing software. You can find it here: https://fritzing.org/download/
+
+Feel free to make any change you wish on that file!!
