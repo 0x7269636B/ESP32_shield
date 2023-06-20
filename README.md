@@ -1,5 +1,4 @@
 # ESP32_shield
-This is my first try making a pcb
 
 In this repository there are two files:
 1.  esp shield.zip
